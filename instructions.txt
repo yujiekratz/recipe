@@ -1,6 +1,8 @@
-recipe
+Simple Cookies
 
-Ingredients
+Title: Simple Cookies
+
+ngredients
 
 225g butter, softened
 110g caster sugar
