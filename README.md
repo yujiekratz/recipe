@@ -1,4 +1,4 @@
-### This is a LOCAL change :O
+### This is a LOCAL change :)
 # recipe
 line 2 changed remotely
 This is my favourite cookie recipe, I found it online via this link https://www.bbcgoodfood.com/recipes/basic-cookies. 
