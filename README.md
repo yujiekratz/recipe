@@ -1,6 +1,5 @@
 # My Favourite Cookie Recipe!
 ### Recipe
-![My Favourite Cookie Recipe!](recipe.png "Basic Cookie")
 
 This is my favourite cookie recipe, I found it online via this link *https://www.bbcgoodfood.com/recipes/basic-cookies*. 
 
@@ -21,4 +20,5 @@ Roll the dough into walnut-sized balls and place them slightly apart from each o
 ### Notes
 This is the recipe for a basic butter cookie but it can be modified easily by simply adding other ingredients such as **chocolate chips** or **dried fruits**.
 
+![My Favourite Cookie Recipe!](recipe.png "Basic Cookie")
 
