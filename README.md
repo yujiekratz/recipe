@@ -1,6 +1,6 @@
 # My Favourite Cookie Recipe!
 ### Recipe
-![My Favourite Cookie Recipe!](Downloads/student-2/recipe/recipe.png "Basic Cookie")
+![My Favourite Cookie Recipe!](recipe.png "Basic Cookie")
 
 This is my favourite cookie recipe, I found it online via this link *https://www.bbcgoodfood.com/recipes/basic-cookies*. 
 
